@@ -25,9 +25,8 @@ A seguir, apresentamos alguns exemplos de prompts e respostas gerados pelo Micro
 
 **Resposta 02:**
 
-![Resposta 02](https://github.com/ElizabethTerumi/Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/raw/main/outputs/ia-generativa-514x429.jpg)
+![Resposta 02](https://github.com/ElizabethTerumi/Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/blob/main/outputs/output-2.jpg?raw=true)
 
-*Observação: As imagens acima ilustram exemplos de prompts e respostas gerados pelo Microsoft Copilot.*
 
 ## Conclusão
 
